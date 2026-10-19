@@ -1,4 +1,4 @@
-# 🩸 Novalife — Blood Bank Management System
+#  Novalife — Blood Bank Management System
 
 A full-stack web application for managing blood bank operations across multiple branches.
 
